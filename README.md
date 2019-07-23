@@ -2,7 +2,8 @@
 
 IBANDesktopApp.Tests contains unit test for IBAN verification.
 
-IBANDesktopApp/MainWindow.xaml.cs contains logic for GUI and file reading
+IBANDesktopApp/MainWindow.xaml.cs contains logic for GUI and file reading.
+
 IBANDesktopApp/IBAN/IbanValidator.cs is main class for IBAN validation.
 
 HOW TO USE:
