@@ -1,0 +1,15 @@
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\bin\Debug\IBANDesktopApp.exe.config
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\bin\Debug\IBANDesktopApp.exe
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\bin\Debug\IBANDesktopApp.pdb
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp.csprojAssemblyReference.cache
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\MainWindow.g.cs
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\App.g.cs
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp_MarkupCompile.cache
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp_MarkupCompile.lref
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\MainWindow.baml
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp.g.resources
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp.Properties.Resources.resources
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp.csproj.GenerateResource.cache
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp.exe
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp\obj\Debug\IBANDesktopApp.pdb

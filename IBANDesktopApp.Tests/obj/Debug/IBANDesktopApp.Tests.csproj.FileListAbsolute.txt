@@ -1,0 +1,17 @@
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\IBANDesktopApp.Tests.dll
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\IBANDesktopApp.Tests.pdb
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\IBANDesktopApp.exe
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\IBANDesktopApp.pdb
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\IBANDesktopApp.exe.config
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\obj\Debug\IBANDesktopApp.Tests.csprojAssemblyReference.cache
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\obj\Debug\IBANDesktopApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\obj\Debug\IBANDesktopApp.Tests.csproj.CopyComplete
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\obj\Debug\IBANDesktopApp.Tests.dll
+C:\Users\Robertas\source\repos\IBANDesktopApp\IBANDesktopApp.Tests\obj\Debug\IBANDesktopApp.Tests.pdb
